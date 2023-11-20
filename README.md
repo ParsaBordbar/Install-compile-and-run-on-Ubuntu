@@ -93,7 +93,7 @@ For Java we need JDK => Java Development Kit
     sudo apt install default-jdk
 For compiling Java code we can use command:
 
-    $ javac  filename.java
+    javac  filename.java
 When we compile Java code this gives us a filename.class file with the class name we used in our program we have to run this class to see the result:
 
-    $ java className
+    java className
