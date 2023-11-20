@@ -4,7 +4,7 @@ Before installing any packages, we need to update our list of packages and upgra
 
 **1.Update** 
 
- $ sudo apt update 
+     $ sudo apt update 
 
 *what update do?* 
 
@@ -14,7 +14,7 @@ http://linux.die.net/man/8/apt-get
 
 **2.upgrade**
 
-``` $ sudo apt upgrade ```
+     $ sudo apt upgrade 
 
 *what upgrade do?*
 
