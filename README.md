@@ -4,7 +4,7 @@ Before installing any packages, we need to update our list of packages and upgra
 
 **1.Update** 
 
-``` $ sudo apt update ```
+ $ sudo apt update 
 
 *what update do?* 
 
