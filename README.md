@@ -1,3 +1,4 @@
+
 # Install-compile-and-run-on-Ubuntu
 
 Before installing any packages, we need to update our list of packages and upgrade them we can do so with following steps:
@@ -20,7 +21,6 @@ http://linux.die.net/man/8/apt-get
 
 apt-get  upgrade will fetch new versions of packages from apt-get update list and install all packages and their dependencies.
 
-**
 
 # Installing packages for languages and Running them
 
@@ -63,10 +63,15 @@ cheeking if we have it installed:
 Installing gcc/g++ compiler:
 
     sudo apt install g++
-How to run the .cpp file:
+How to compile the .cpp file:
 
     g++ samplefile.cpp –o samplefile
 
+How to run the .cpp file:
+
+    ./samplefile
+
+     
  
 
 ## 4. Rust
